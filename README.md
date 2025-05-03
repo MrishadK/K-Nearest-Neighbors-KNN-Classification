@@ -1,7 +1,5 @@
 # K-Nearest Neighbors (KNN) Classification
 
-![KNN Visualization](https://miro.medium.com/v2/resize:fit:1400/1*1hW37yGRBygq1jWNR7CuHA.png)
-
 A Python implementation of K-Nearest Neighbors algorithm for classification tasks, featuring comprehensive evaluation and visualization.
 
 ## Table of Contents
